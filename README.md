@@ -4,7 +4,9 @@ This repository contains Oahu MPO's ORTP Dashboard Data. Any data updated here w
 ## Update Dashboard Data 
 #### Option 1: Click and Drag Onto This Page
 1. Update Data as you normally would while working with that data.
+
 2. Open file location of data.
+
 3. Click and drag the file containing updated data on to this page.
 4. A new page will automatically load.
 5. Wait for the file to finish uploading.
