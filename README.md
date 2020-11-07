@@ -1,5 +1,5 @@
 # ORTP Dashboard
-This repository contains Oahu MPO's ORTP Dashboard Data. Any data updated here will automatically update the dashboard, this may take a few minutes and you will need to refresh the page. ***To update data, the files must contain the same name*** . For tables, the column indexes must remain the same. For example, a CSV file may contain columns `year`, `percent`, `category`, with data entries in each. To update this CSV file the columns need to be in the same order and no additional columns in front of them.
+This repository contains Oahu MPO's ORTP Dashboard Data. Any data updated here will automatically update the dashboard, this may take a few minutes and you will need to refresh the page. ***To update data, the files must contain the same name*** . For tables, the column indexes must remain the same. For example, a CSV file may contain columns `year`, `percent`, `category`, with data entries in each. To update this CSV file the columns need to be in the same order with no additional columns in front of them.
 
 ### Update Dashboard Data 
 #### Option 1: Click and Drag Onto This Page
